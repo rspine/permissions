@@ -7,7 +7,7 @@ Gem::Specification.new do |spec|
   spec.version       = Spine::Permissions::VERSION
   spec.authors       = ["TOGGL LLC"]
   spec.email         = ["support@toggl.com"]
-  spec.summary       = ''
+  spec.summary       = 'Role based authentication'
   spec.description   = ''
   spec.homepage      = 'https://github.com/rspine/permissions'
   spec.license       = 'BSD-3-Clause'
