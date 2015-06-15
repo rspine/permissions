@@ -4,6 +4,8 @@
 [![Dependency Status](https://gemnasium.com/rspine/permissions.svg)](https://gemnasium.com/rspine/permissions)
 [![Test Coverage](https://codeclimate.com/github/rspine/permissions/badges/coverage.svg)](https://codeclimate.com/github/rspine/permissions/coverage)
 [![Code Climate](https://codeclimate.com/github/rspine/permissions/badges/gpa.svg)](https://codeclimate.com/github/rspine/permissions)
+[![security](https://hakiri.io/github/rspine/permissions/master.svg)](https://hakiri.io/github/rspine/permissions/master)
+[![Inline docs](http://inch-ci.org/github/rspine/permissions.svg?branch=master)](http://inch-ci.org/github/rspine/permissions)
 [![Codeship Status for rspine/permissions](https://codeship.com/projects/e40254b0-ec27-0132-7a53-3e3b9703d095/status?branch=master)](https://codeship.com/projects/83659)
 
 ## Installation
